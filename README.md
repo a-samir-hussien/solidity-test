@@ -1,1 +1,1 @@
-# solidity-test
+# election_contract
